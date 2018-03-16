@@ -55,7 +55,7 @@ These are limits for a single flow run.
 
 | Name | Limit | Notes |
 | --- | --- | --- |
-| ForEach items |5,000 |You can use the filter action to filter larger arrays as needed. |
+| ForEach items |5,000 (100.000 with Plan P1 & P2)|You can use the filter action to filter larger arrays as needed. |
 | Until iterations |5,000 | |
 | SplitOn items |5,000 | |
 | ForEach Parallelism |1 | |
